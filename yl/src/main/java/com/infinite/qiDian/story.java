@@ -8,7 +8,8 @@ import org.apache.http.util.EntityUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
+
+import javax.lang.model.util.Elements;
 
 public class story {
     public static void main(String[] args) throws Exception {
